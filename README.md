@@ -2,6 +2,7 @@
 ### Project Goal
 The main goal of the project is to provide a well documented, fully reproducible process that construct, analyze,
 and publish a dataset of monthly traffic on English Wikipedia from January 1 2008 through September 30 2018.
+[Link to the problem statement](https://wiki.communitydata.cc/Human_Centered_Data_Science_(Fall_2018)/Assignments#A1:_Data_curation) 
 
 ## Data Source
 The data are retrieved using the **Wikimedia REST APIs**. Two different APIs were used to retrieve data from varying time ranges.
