@@ -62,6 +62,10 @@ The notebook runs on Python 3.6 and the following packages are needed to run:
 
 The final result is saved as a .png file which also has been published here as : `wiki_pageviews_2008_2018.png`
 
+## Known Issues
+- The Pagecount API provides mobile-web data starting from January, 2014.So there is no data on mobile-web visits from 2008 till 2014.
+- The Pageview API filters out crawlers/spiders data, whereas the Pagecount API does not.
+
 ## License
 The code is licensed under [MIT](LICENSE).
 
